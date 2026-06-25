@@ -85,16 +85,4 @@ Everything before `ship it` runs through the router only — no GitHub involveme
 
 ## Hardware you need
 
-A laptop with 16GB RAM handles building this comfortably. Running the default local model (download mode) comfortably wants ~32GB RAM given its size — or skip that entirely with hosted mode, which needs no extra RAM at all. Full breakdown in `SETUP_GUIDE.md`.
-
-## Opt-in shared learning (off by default)
-
-You can optionally let the tool share anonymous routing outcomes (task category, success/failure, language, which provider performed best — never your code) to help improve routing decisions for everyone, including which cloud provider tends to work best for a given kind of task. Fully described, with the exact data schema, on first run and in `BUILD_SPEC.md` Section 3.10.
-
-## License
-
-[Choose one — MIT is the standard default for projects wanting maximum adoption: permissive, well-understood, no friction for contributors or commercial use.]
-
-## Contributing
-
-[Add once you've decided on a contribution flow — even a one-line "open an issue first" is enough for v0.1.]
+A laptop with 16GB RAM handles building this comfortably. Running the default local model (download mode) comfortably wants ~32GB RAM given its size — or skip that entirely with hosted mode, which needs no extra RAM at all.
