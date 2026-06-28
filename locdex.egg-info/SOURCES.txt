@@ -1,0 +1,8 @@
+README.md
+pyproject.toml
+locdex.egg-info/PKG-INFO
+locdex.egg-info/SOURCES.txt
+locdex.egg-info/dependency_links.txt
+locdex.egg-info/entry_points.txt
+locdex.egg-info/requires.txt
+locdex.egg-info/top_level.txt
